@@ -2,7 +2,7 @@
 bio:
   name: Pothuru Rohan
   roll_number: 20J41A6934
-  email: rohan.mbox@gmail.com
+  email: work@rohzzn.me
   github:
     username: rohzzn
     link: https://github.com/rohzzn
@@ -64,9 +64,9 @@ work_experience:
     tech_stack: Javascript, jQuery, Stripe API
     bullets:
       - Developed a custom Discord bot that improved server moderation & efficiency for a community of 400+ users.
-      - Designed and built mrec.club using jQuery and Bootstrap for executives and to display upcoming events.
-      - Developed hack.mrec.club to showcase information and take entires for the contest.
-      - Managed a team of fifteen students and organized events and coordinated the provision of giveaways or merchandise.
+      - Designed and built <a href="https://mrec.club">mrec.club</a> using jQuery and Bootstrap for executives and to display upcoming events.
+      - Developed <a href="https://hack.mrec.club">hack.mrec.club</a> to showcase information and take entires for the contest.
+      - Managed a team of fifteen students and organized events and coordinated the provision of goodies.
   - title: Freelance Developer, Fiverr
     subtitle: 'Level Two Freelancer'
     duration: Apr’ 20 - Mar’ 22
