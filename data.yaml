@@ -1,0 +1,176 @@
+# BIO
+bio:
+  name: Pothuru Rohan
+  roll_number: 20J41A6934
+  email: rohan.mbox@gmail.com
+  github:
+    username: rohzzn
+    link: https://github.com/rohzzn
+  linkedin:
+    username: rohzzn
+    link: https://linkedin.com/in/rohzzn
+  leetcode: 
+    username: rohzzn
+    link: https://leetcode.com/rohzzn
+  website:
+    name: rohzzn.me
+    link: https://rohzzn.me
+  last_updated: 11 June 2023
+
+# EDUCATION
+education:
+  - institution: Malla Reddy Engineering College, Hyderabad
+    degree: Bachelor of Technology in Computer Science
+    duration: 2020 - Present
+    grade: 'CGPA: 7.2*'
+    note: (Till 5th Semester)
+  - institution: Trividya Junior College, Hyderabad
+    degree: Telangana State Board of Intermediate Education
+    duration: Graduated 2019
+    grade: 'Percentage: 76%'
+  - institution: Slate the School, Hyderabad
+    degree: Telangana SSC Board
+    duration: Graduated 2017
+    grade: 'Percentage: 72%'
+
+# SKILLS
+skills:
+  - title: Programming Languages
+    value: Python, Java, C, JavaScript
+  - title: Tools and Technologies
+    value: Git, Github, Bitbucket, ReactJS, NextJS, NodeJS, HTML5, CSS3, Tailwind CSS, MySQL, Markdown, Latex
+  - title: Technical Electives
+    value: Data Structures and Algorithms, Operating Systems, Database Management Systems, Object Oriented Programming, Computer Networks, Analysis and Design of Algorithms, Database Management Systems
+
+# WORK EXPERIENCE
+work_experience:
+  - title: Software Developer Intern, Race2Study
+    subtitle: 'Mentor: Mr. Talakkokula Rohith, CTO at Race2Study '
+    duration: Mar’ 23 - May’ 23
+    links:
+      - name: Website
+        link: https://www.race2study.com/about.html
+    tech_stack: MySQL, JavaScript, Twillo API
+    bullets:
+      - Collaborated with cross-functional teams to gather to analyze project requirement for alignment with objectives.
+      - Improved the management of website content resulting in applications with minimal defects and optimal performance.
+      - Integrated external APIs and third-party services to enhance the functionality and capabilities of software applications.
+  - title: President, CodeChef Chapter MREC
+    subtitle: 'Board 2022 and 2023'
+    duration: Nov’ 21 - Present
+    links:
+      - name: Website 
+        link: https://mrec.club
+    tech_stack: Javascript, jQuery, Stripe API
+    bullets:
+      - Developed a custom Discord bot that improved server moderation & efficiency for a community of 400+ users.
+      - Designed and built mrec.club using jQuery and Bootstrap for executives and to display upcoming events.
+      - Developed hack.mrec.club to showcase information and take entires for the contest.
+      - Managed a team of fifteen students and organized events and coordinated the provision of giveaways or merchandise.
+  - title: Freelance Developer, Fiverr
+    subtitle: 'Level Two Freelancer'
+    duration: Apr’ 20 - Mar’ 22
+    links:
+      - name: Website
+        link: https://www.behance.net/rohzzn
+    tech_stack: JavaScript, NextJS, Other Curated tools
+    bullets:
+      - Designed responsive landing and admin pages utilizing TwinlandCSS, NextJS and other curated tools.
+      - Served as the personal developer/designer for YouTube celebrities Pirate King (200k Subs), TBone (225k Subs).
+
+# PROJECTS
+projects:
+  - title: Todo
+    note: (Test Flight Stage)
+    subtitle: IOS Application 
+    duration: Mar’ 23
+    team_size: 1
+    links:
+      - name: GitHub
+        link: https://github.com/rohzzn/todoapp
+    bullets:
+      - Designed and implemented an intuitive user interface that prioritizes usability and simplicity for IOS users.
+      - Utilized CoreData to store task data locally, ensuring data persistence and improving app performance.
+    tech_stack: Swift
+  - title: Pages
+    note: (500+ Daily Users)
+    subtitle: Figma Plugin
+    duration: May’ 22
+    team_size: 1
+    links:
+      - name: Website
+        link: https://www.figma.com/community/plugin/1106104074775818911/Pages
+      - name: GitHub
+        link: https://github.com/rohzzn/pages
+    tech_stack: TypeScript, Figma API
+    bullets:
+      - Created a Figma plugin using Typescript to make automated crafted pages for designers.
+      - Utilized the layout editor to create a UI for the application in order to allow different scenes to interact with other.
+  - title: Meet
+    note: (1300+ Visits)
+    subtitle: Video call Application
+    duration: Oct’ 21
+    team_size: 5
+    links:
+      - name: Website
+        link: https://ckvyqugj7184663idk0i811d0su-8rbb2fvau-calatop.vercel.app/authenticate
+      - name: GitHub
+        link: https://github.com/rohzzn/meet
+    tech_stack: JavaScript, TypeScript, Go, NodeJS, Docker, Agora API
+    bullets:
+      - Designed and developed a fully-featured video call application using Agile methods.
+      - Supports video call, group chat, authentication, network quality status, background filters, etc.
+      - Equipped to handle 25+ participants exchanging media.
+
+  - title: Zenitsu
+    note: (50+ Servers)
+    subtitle: 'Discord Moderation Bot'
+    duration: Aug’ 21
+    team_size: 1
+    links:
+      - name: Website
+        link: https://discord.com/oauth2/authorize?client_id=766218598913146901&permissions=517544082496&scope=bot
+      - name: GitHub
+        link: https://github.com/rohzzn/Zenitsu-bot
+    tech_stack: Javascript, DiscordJS, ECMA Script
+    bullets:
+      - Developed a versatile Discord moderation bot with engaging games and a customizable welcome system.
+      - Implemented features for server moderation, entertainment, and user interaction.
+  - title: Tanoshi
+    note: (1200+ Daily Users)
+    subtitle: 'Visual Studio Code Theme'
+    duration: Jul' 21
+    team_size: 1
+    links:
+      - name: Website
+        link: https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi
+      - name: GitHub
+        link: https://github.com/rohzzn/tanoshi
+    tech_stack: CSS, JSON
+    bullets:
+      - Pleasant Dark Scheme for Visual Studio Code made using CSS and color theory.
+      - Compatible with multiple popular programming languages.
+
+# POSITIONS OF RESPONSIBILITY
+leadership:
+  - position: '<strong>President</strong> of Newton School, organized events and coordinated the provision of merchandise.'
+    duration: Jan’ 22 - Present
+  - position: '<strong>President</strong> of CodeChef Chapter, led a team of fifteen members, organized events.'
+    duration: Nov’ 21 - Present
+  - position: '<strong>Member</strong> of Microsoft AI for Earth, among the top 50 contributors providing solutions.'
+    duration: May’ 21 - Present
+  - position: '<strong>Staff Developer</strong> at Indian Game Developer Conference 2019.'
+    duration: Oct’ 19 - Dec’ 19
+
+# AWARDS AND ACHIEVEMENTS
+achievements:
+  - <strong>Attained a top rating of 1700</strong> on <a href="https://leetcode.com/rohzn/"> Leetcode </a> and <a href="https://codechef.com/users/rohzzn"> Codechef</a>, placing at global top 10%.
+  - '<strong>Finalist at HackMIT Hackathon 2021 </strong> by developing an <a href="https://rohzzn.github.io/Alert_HackMIT-2021/"> user safety app </a> with a team of 5.'
+  - '<strong>Won the Vishesh Code Expo 2021</strong> by building <a href="https://ckvyqugj7184663idk0i811d0su-8rbb2fvau-calatop.vercel.app/authenticate"> mrec meet </a> with a team of 5.'
+  - 'Achieved a <strong> Global rank of 17 </strong> out of 25,247 participants in the competitive challenge <a href="https://www.codechef.com/rankings/START83D?itemsPerPage=100&order=asc&page=1&sortBy=rank">Starters.</a>'
+  - 'Successfully completed  <a href="https://drive.google.com/drive/u/3/folders/1dYmMfq3Io_w2tqD3225he2QlyZE1cw-f"> four virtual internships</a> through Forage. Additionally, completed over <a href="https://drive.google.com/drive/u/3/folders/1dYmMfq3Io_w2tqD3225he2QlyZE1cw-f"> 8+ advanced courses.</a>'
+# INTERESTS AND HOBBIES
+interests:
+  - '<strong>Former semi-professional esports player</strong> for AMD GameON from 2017 to 2019.'
+  - '<strong><a href = "https://youtube.com/@rohzzn">YouTube</a> content creator</strong>  with over 600k views, where I make helpful tutorials for the community.'
+  - '<strong>Host for the podcast</strong> <a href="https://rohzzn.me/podcast.html"> Unheard Perspective</a>, where we delve into topics related to tech.'
