@@ -1,5 +1,5 @@
 {
-  "name": "iiitd-resume",
+  "name": "mrec_resume",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ananyalohani/IIITD-Resume.git"
+    "url": "git+https://github.com/rohzzn/mrec_resume.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ananyalohani/IIITD-Resume/issues"
+    "url": "https://github.com/rohzzn/mrec_resume/issues"
   },
-  "homepage": "https://github.com/ananyalohani/IIITD-Resume#readme",
+  "homepage": "https://github.com/rohzzn/mrec_resume#readme",
   "dependencies": {
     "http-server": "^14.1.0",
     "js-yaml": "^4.1.0"
