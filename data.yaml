@@ -21,13 +21,17 @@ bio:
 education:
   - institution: Malla Reddy Engineering College, Hyderabad
     degree: Bachelor of Technology in Computer Science
+    duration: 2020 - Present
+    grade: 'CGPA: 99.9*'
     note: 2020 - Present
   - institution: Trividya Junior College, Hyderabad
     degree: Telangana State Board of Intermediate Education
-    note: Graduated 2019
+    duration: Graduated 2019
+    grade: 'Percentage: 99%'
   - institution: Slate the School, Hyderabad
     degree: Telangana SSC Board
-    note: Graduated 2017
+    duration: Graduated 2017
+    grade: 'Percentage: 99%'
 
 # SKILLS
 skills:
