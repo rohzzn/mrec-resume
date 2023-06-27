@@ -22,54 +22,60 @@ education:
   - institution: Malla Reddy Engineering College, Hyderabad
     degree: Bachelor of Technology in Computer Science
     duration: 2020 - Present
-    grade: 'CGPA: 99.9*'
+    grade: 'CGPA: 8.1*'
     note: 2020 - Present
   - institution: Trividya Junior College, Hyderabad
     degree: Telangana State Board of Intermediate Education
     duration: Graduated 2019
-    grade: 'Percentage: 99%'
+    grade: 'Percentage: 73%'
+    note: Graduated 2019
   - institution: Slate the School, Hyderabad
     degree: Telangana SSC Board
     duration: Graduated 2017
-    grade: 'Percentage: 99%'
+    grade: 'Percentage: 72%'
+    note: Graduated 2017
 
 # SKILLS
 skills:
   - title: Programming Languages
     value: Python, Java, C, JavaScript
-  - title: Tools and Technologies
-    value: Git, Github, Bitbucket, ReactJS, NextJS, NodeJS, HTML5, CSS3, Tailwind CSS, MySQL, Markdown, Latex
+  - title: Frameworks
+    value: Django, React Native, ReactJS, NextJS, Tailwind, Bootstrap
+  - title: Tools & Technologies
+    value: MySQL, Firebase, Git, HTML5, CSS3 
   - title: Technical Electives
     value: Data Structures and Algorithms, Operating Systems, Database Management Systems, Object Oriented Programming, Computer Networks, Analysis and Design of Algorithms, Database Management Systems
 
 # WORK EXPERIENCE
 work_experience:
-  - title: Software Developer Intern, Race2Study
-    subtitle: 'Mentor: Mr. Talakkokula Rohith, CTO at Race2Study '
-    duration: Mar’ 23 - May’ 23
+  
+  - title: Ixigo (Abhibus)
+    subtitle: 'Software Development Engineer'
+    duration: Jun’ 23 - Present
     links:
-      - name: Website
-        link: https://www.race2study.com/about.html
-    tech_stack: MySQL, JavaScript, Twillo API
+      - name: Website 
+        link: https://www.abhibus.com/
+    tech_stack: React, Java, Struts, Hibernate, MySQL, Spring Boot & MVC, REST APIs, Soap UI
     bullets:
-      - Collaborated with cross-functional teams to gather to analyze project requirement for alignment with objectives.
-      - Improved the management of website content resulting in applications with minimal defects and optimal performance.
-      - Integrated external APIs and third-party services to enhance the functionality and capabilities of software applications.
-  - title: President, CodeChef Chapter MREC
-    subtitle: 'Board 2022 and 2023'
-    duration: Nov’ 21 - Present
+      - Automated report generation for tourist packages in KSRTC by extracting SQL data based on selected dates.
+      - Coordinated with leads and production teams to update APSRTC and KSRTC websites content regularly.
+      - Maintained & resolved API issues using SOAP UI for showcasing bus details on Paytm Buses, RedBus, & Others.
+  - title: CodeChef Chapter
+    subtitle: 'President'
+    duration: Nov’ 21 - Nov’ 23
+    team_size: 1
     links:
       - name: Website 
         link: https://mrec.club
     tech_stack: Javascript, jQuery, Stripe API
     bullets:
       - Developed a custom Discord bot that improved server moderation & efficiency for a community of 400+ users.
-      - Designed and built <a href="https://mrec.club">mrec.club</a> using jQuery and Bootstrap for executives and to display upcoming events.
-      - Developed <a href="https://hack.mrec.club">hack.mrec.club</a> to showcase information and take entires for the contest.
+      - Designed and built <a href="https://mrec.club">mrec.club</a> and <a href="https://hack.mrec.club">hack.mrec.club</a> display upcoming events and take entires for the contest.
       - Managed a team of fifteen students and organized events and coordinated the provision of goodies.
-  - title: Freelance Developer, Fiverr
-    subtitle: 'Level Two Freelancer'
+  - title: Fiverr
+    subtitle: ' Web Developer & Designer (Level One)'
     duration: Apr’ 20 - Mar’ 22
+    team_size: 2
     links:
       - name: Website
         link: https://www.behance.net/rohzzn
@@ -116,7 +122,7 @@ projects:
         link: https://ckvyqugj7184663idk0i811d0su-8rbb2fvau-calatop.vercel.app/authenticate
       - name: GitHub
         link: https://github.com/rohzzn/meet
-    tech_stack: JavaScript, TypeScript, Go, NodeJS, Docker, Agora API
+    tech_stack: JavaScript, TypeScript, Go, NodeJS, Docker, Agora SDK
     bullets:
       - Designed and developed a fully-featured video call application using Agile methods.
       - Supports video call, group chat, authentication, network quality status, background filters, etc.
@@ -146,19 +152,19 @@ projects:
         link: https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi
       - name: GitHub
         link: https://github.com/rohzzn/tanoshi
-    tech_stack: CSS, JSON
+    tech_stack: CSS, Color Theory
     bullets:
       - Pleasant Dark Scheme for Visual Studio Code made using CSS and color theory.
       - Compatible with multiple popular programming languages.
 
 # POSITIONS OF RESPONSIBILITY
 leadership:
-  - position: '<strong>President</strong> of Newton School, organized events and coordinated the provision of merchandise.'
-    duration: Jan’ 22 - Present
-  - position: '<strong>President</strong> of CodeChef Chapter, led a team of fifteen members, organized events.'
-    duration: Nov’ 21 - Present
   - position: '<strong>Member</strong> of Microsoft AI for Earth, among the top 50 contributors providing solutions.'
-    duration: May’ 21 - Present
+    duration: May’ 21 - Jun’23
+  - position: '<strong>President</strong> of CodeChef Chapter, led a team of fifteen members, organized events.'
+    duration: Nov’ 21 - Nov’ 23
+  - position: '<strong>President</strong> of Newton School, organized events and coordinated the provision of merchandise.'
+    duration: Jan’ 22 - Jul’ 23
   - position: '<strong>Staff Developer</strong> at Indian Game Developer Conference 2019.'
     duration: Oct’ 19 - Dec’ 19
 
