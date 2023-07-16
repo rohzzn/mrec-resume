@@ -15,7 +15,7 @@ bio:
   website:
     name: rohzzn.me
     link: https://rohzzn.me
-  last_updated: 3 July 2023
+  last_updated: 15 July 2023
 
 # EDUCATION
 education:
@@ -40,7 +40,7 @@ skills:
   - title: Programming Languages
     value: Python, Java, C, JavaScript
   - title: Frameworks
-    value: Django, React Native, ReactJS, NextJS, Tailwind, Bootstrap
+    value: Django, ReactJS, NextJS, Tailwind, Bootstrap
   - title: Tools & Technologies
     value: MySQL, Firebase, Git, HTML5, CSS3 
   - title: Technical Electives
@@ -70,7 +70,7 @@ work_experience:
     tech_stack: Javascript, jQuery, Stripe API
     bullets:
       - Developed a custom Discord bot that improved server moderation & efficiency for a community of 400+ users.
-      - Designed and built <a href="https://mrec.club">mrec.club</a> and <a href="https://hack.mrec.club">hack.mrec.club</a> display upcoming events and take entires for the contest.
+      - Designed and built <a href="https://mrec.club">mrec.club</a> and <a href="https://hack.mrec.club">hack.mrec.club</a> display upcoming events and take entries for the contest.
       - Managed a team of fifteen students and organized events and coordinated the provision of goodies.
   - title: Fiverr
     subtitle: ' Web Developer & Designer (Level One)'
@@ -180,3 +180,4 @@ interests:
   - '<strong>Former semi-professional esports player</strong> for AMD GameON from 2017 to 2019.'
   - '<strong><a href = "https://youtube.com/@rohzzn">YouTube</a> content creator</strong>  with over 600k views, where I make helpful tutorials for the community.'
   - '<strong>Host for the podcast</strong> <a href="https://rohzzn.me/podcast.html"> Unheard Perspective</a>, where we delve into topics related to tech.'
+  - '<strong>Versatile designer</strong> with a strong focus on UI/UX, graphic, logo, & branding. Check out my <a href="https://behance.net/rohzzn">Behance</a> & <a href="https://dribbble.com/rohzzn">Dribbble</a>.'
