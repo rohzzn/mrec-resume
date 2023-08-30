@@ -87,6 +87,29 @@ strong {
   width: 100px;
 }
 
+<<<<<<< Updated upstream
+=======
+.photo-logo {
+  position: absolute;
+  display: block;
+  top: 30px;
+  left: 30px;
+  width: 100px;
+}
+
+.cancer {
+  text-align: center; /* Center the content horizontally */
+}
+
+.cancer img {
+  width: 200px; /* Set the desired width for the image */
+  height: auto; /* Maintain the image's aspect ratio */
+  display: block; /* Make the image a block element */
+  margin: 0 auto; /* Center the image horizontally */
+}
+
+
+>>>>>>> Stashed changes
 .section-title {
   font-size: 10.75pt;
   text-transform: uppercase;
