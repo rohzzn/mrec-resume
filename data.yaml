@@ -3,7 +3,7 @@ bio:
   name: Pothuru Rohan Sanjeev
   roll_number: 20J41A6934
   email: work@rohzzn.me
-  careerObjective: "Versatile Computer Science and Engineering student, experienced as a freelancer and SDE intern at Abhibus and ixigo. Eager to apply my adaptability, strong technical foundation, and problem-solving skills to contribute effectively to innovative tech projects and teams."
+  careerObjective: "Versatile Computer Science and Engineering student, experienced as a freelancer and SDE intern at Abhibus. Eager to apply my adaptability, strong technical foundation, and problem-solving skills to contribute effectively to innovative tech projects and teams."
   github:
     username: rohzzn
     link: https://github.com/rohzzn
@@ -90,6 +90,21 @@ work_experience:
 
 # PROJECTS
 projects:
+  - title: DekhoCar
+    note: (500+ Visits)
+    subtitle: 'Car Rental Website'
+    duration: Jun’ 23
+    team_size: 1
+    links:
+      - name: Website
+        link: https://dekhocar.vercel.app/
+      - name: GitHub
+        link: https://github.com/rohzzn/dekhocar
+    tech_stack: ReactJS, TypeScript, NextJS, TailwindCSS
+    bullets:
+      - Designed a car rental website with an intuitive user interface, including search and filtering options.
+      - Integrated RapidAPI to fetch car details, providing users with comprehensive information for easy car selection.
+
   - title: Pages
     note: (500+ Daily Users)
     subtitle: Figma Plugin
@@ -120,34 +135,7 @@ projects:
       - Supports video call, group chat, authentication, network quality status, background filters, etc.
       - Equipped to handle 25+ participants exchanging media.
 
-  - title: Zenitsu
-    note: (50+ Servers)
-    subtitle: 'Discord Moderation Bot'
-    duration: Aug’ 21
-    team_size: 1
-    links:
-      - name: Website
-        link: https://discord.com/oauth2/authorize?client_id=766218598913146901&permissions=517544082496&scope=bot
-      - name: GitHub
-        link: https://github.com/rohzzn/Zenitsu-bot
-    tech_stack: Javascript, DiscordJS, ECMA Script
-    bullets:
-      - Developed a versatile Discord moderation bot with engaging games and a customizable welcome system.
-      - Implemented features for server moderation, entertainment, and user interaction.
-  - title: Tanoshi
-    note: (1200+ Daily Users)
-    subtitle: 'Visual Studio Code Theme'
-    duration: Jul' 21
-    team_size: 1
-    links:
-      - name: Website
-        link: https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi
-      - name: GitHub
-        link: https://github.com/rohzzn/tanoshi
-    tech_stack: CSS, Color Theory
-    bullets:
-      - Pleasant Dark Scheme for Visual Studio Code made using CSS and color theory.
-      - Compatible with multiple popular programming languages.
+
 
 # AWARDS AND ACHIEVEMENTS
 achievements:
