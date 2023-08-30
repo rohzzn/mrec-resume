@@ -1,98 +1,188 @@
 # BIO
 bio:
-  name: Your Full Name
-  roll_number: Your Roll Number
-  email: Your Email Address
-  careerObjective: "Your career objective goes here"
+  name: Pothuru Rohan Sanjeev
+  roll_number: 20J41A6934
+  email: work@rohzzn.me
+  careerObjective: "Versatile Computer Science and Engineering student, experienced as a freelancer and SDE intern at Abhibus and ixigo. Eager to apply my adaptability, strong technical foundation, and problem-solving skills to contribute effectively to innovative tech projects and teams."
   github:
-    username: Your GitHub Username
-    link: Your GitHub Profile Link
+    username: rohzzn
+    link: https://github.com/rohzzn
   linkedin:
-    username: Your LinkedIn Username
-    link: Your LinkedIn Profile Link
+    username: rohzzn
+    link: https://linkedin.com/in/rohzzn
   leetcode: 
-    username: Your LeetCode Username
-    link: Your LeetCode Profile Link
+    username: rohzzn
+    link: https://leetcode.com/rohzzn
   website:
-    name: Your Personal Website Name
-    link: Your Personal Website Link
-  last_updated: Last Updated Date
+    name: rohzzn.me
+    link: https://rohzzn.me
+  last_updated: 15 July 2023
 
 # EDUCATION
 education:
-  - institution: Name of Your University/College
-    degree: Your Degree
-    duration: Year Started - Year Graduated/Expected
-    grade: 'CGPA/Percentage: Your Grade'
-    note: Additional Note, if any
-  - institution: Name of Your University/College
-    degree: Your Degree
-    duration: Year Started - Year Graduated/Expected
-    grade: 'CGPA/Percentage: Your Grade'
-    note: Additional Note, if any
-  - institution: Name of Your University/College
-    degree: Your Degree
-    duration: Year Started - Year Graduated/Expected
-    grade: 'CGPA/Percentage: Your Grade'
-    note: Additional Note, if any
+  - institution: Malla Reddy Engineering College, Hyderabad
+    degree: Bachelor of Technology in Computer Science
+    duration: 2020 - Present
+    grade: 'CGPA: 7.5*'
+    note: 2020 - Present
+  - institution: Trividya Junior College, Hyderabad
+    degree: Telangana State Board of Intermediate Education
+    duration: Graduated 2019
+    grade: 'Percentage: 76%'
+    note: Graduated 2019
+  - institution: Slate the School, Hyderabad
+    degree: Telangana SSC Board
+    duration: Graduated 2017
+    grade: 'Percentage: 77%'
+    note: Graduated 2017
 
 # SKILLS
 skills:
   - title: Programming Languages
-    value: List of Programming Languages
-  - title: Frameworks
-    value: List of Frameworks
-  - title: Tools & Technologies
-    value: List of Tools & Technologies
-  - title: Technical Electives
-    value: List of Technical Electives
+    value: Python, Java, C, JavaScript, HTML, CSS
+  - title: Frontend Frameworks
+    value: ReactJS, JQuery, TailwindCSS, Bootstrap
+  - title: Backend Frameworks
+    value: Django, Spring Boot, NextJS
+  - title: Libraries
+    value: Pandas, NumPy, Matplotlib, Scikit-learn
+  - title: Other Technologies
+    value: MySQL, Git, Linux, Docker, PM2, Azure
+
 
 # WORK EXPERIENCE
 work_experience:
-  - title: Job Title
-    subtitle: Job Subtitle
-    duration: Start Date - End Date
+  
+  - title: Ixigo (Abhibus)
+    subtitle: 'Software Development Engineer'
+    duration: Jun’ 23 - Present
     links:
       - name: Website 
-        link: Company/Project Website Link
-    tech_stack: List of Technologies Used
+        link: https://www.abhibus.com/
+    tech_stack: React, Java, Struts, Hibernate, MySQL, Spring Boot & MVC, REST APIs, Soap UI
     bullets:
-      - Description of Your Work Responsibilities
+      - Automated report generation for tourist packages in KSRTC by extracting SQL data based on selected dates.
+      - Coordinated with leads and production teams to update APSRTC and KSRTC websites content regularly.
+      - Maintained & resolved API issues using SOAP UI for showcasing bus details on Paytm Buses, RedBus, & Others.
+  - title: CodeChef Chapter
+    subtitle: 'President'
+    duration: Nov’ 21 - Nov’ 23
+    team_size: 1
+    links:
+      - name: Website 
+        link: https://mrec.club
+    tech_stack: Javascript, jQuery, Stripe API
+    bullets:
+      - Developed a custom Discord bot that improved server moderation & efficiency for a community of 400+ users.
+      - Designed and built <a href="https://mrec.club">mrec.club</a> and <a href="https://hack.mrec.club">hack.mrec.club</a> display upcoming events and take entries for the contest.
+      - Managed a team of fifteen students and organized events and coordinated the provision of goodies.
+  - title: Fiverr
+    subtitle: ' Web Developer & Designer (Level One)'
+    duration: Apr’ 20 - Mar’ 22
+    team_size: 2
+    links:
+      - name: Website
+        link: https://www.behance.net/rohzzn
+    tech_stack: JavaScript, NextJS, Other Curated tools
+    bullets:
+      - Designed responsive landing and admin pages utilizing TwinlandCSS, NextJS and other curated tools.
+      - Served as the personal developer/designer for YouTube celebrities Pirate King (200k Subs), TBone (225k Subs).
 
 # PROJECTS
 projects:
-  - title: Project Title
-    note: Additional Note, if any
-    subtitle: Project Subtitle
-    duration: Project Duration
-    team_size: Team Size
+  - title: Pages
+    note: (500+ Daily Users)
+    subtitle: Figma Plugin
+    duration: May’ 22
+    team_size: 1
     links:
       - name: Website
-        link: Project Website Link
+        link: https://www.figma.com/community/plugin/1106104074775818911/Pages
       - name: GitHub
-        link: Project GitHub Repository Link
-    tech_stack: List of Technologies Used
+        link: https://github.com/rohzzn/pages
+    tech_stack: TypeScript, Figma API
     bullets:
-      - Description of Your Project and Your Contributions
+      - Created a Figma plugin using Typescript to make automated crafted pages for designers.
+      - Utilized the layout editor to create a UI for the application in order to allow different scenes to interact with other.
+  - title: Meet
+    note: (1300+ Visits)
+    subtitle: Video call Application
+    duration: Oct’ 21
+    team_size: 5
+    links:
+      - name: Website
+        link: https://ckvyqugj7184663idk0i811d0su-8rbb2fvau-calatop.vercel.app/authenticate
+      - name: GitHub
+        link: https://github.com/rohzzn/meet
+    tech_stack: JavaScript, TypeScript, Go, NodeJS, Docker, Agora SDK
+    bullets:
+      - Designed and developed a fully-featured video call application using Agile methods.
+      - Supports video call, group chat, authentication, network quality status, background filters, etc.
+      - Equipped to handle 25+ participants exchanging media.
+
+  - title: Zenitsu
+    note: (50+ Servers)
+    subtitle: 'Discord Moderation Bot'
+    duration: Aug’ 21
+    team_size: 1
+    links:
+      - name: Website
+        link: https://discord.com/oauth2/authorize?client_id=766218598913146901&permissions=517544082496&scope=bot
+      - name: GitHub
+        link: https://github.com/rohzzn/Zenitsu-bot
+    tech_stack: Javascript, DiscordJS, ECMA Script
+    bullets:
+      - Developed a versatile Discord moderation bot with engaging games and a customizable welcome system.
+      - Implemented features for server moderation, entertainment, and user interaction.
+  - title: Tanoshi
+    note: (1200+ Daily Users)
+    subtitle: 'Visual Studio Code Theme'
+    duration: Jul' 21
+    team_size: 1
+    links:
+      - name: Website
+        link: https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi
+      - name: GitHub
+        link: https://github.com/rohzzn/tanoshi
+    tech_stack: CSS, Color Theory
+    bullets:
+      - Pleasant Dark Scheme for Visual Studio Code made using CSS and color theory.
+      - Compatible with multiple popular programming languages.
 
 # AWARDS AND ACHIEVEMENTS
 achievements:
-  - 'Your Achievement Description with HTML Markup'
+  - 'Attained a <strong>top rating of 1700</strong> on <a href="https://leetcode.com/rohzzn/"> Leetcode </a> and <a href="https://codechef.com/users/rohzzzn"> Codechef</a>, placing at global top 10%.'
+  - 'Finalist at <strong>HackMIT Hackathon</strong> 2021 by developing an <a href="https://rohzzn.github.io/Alert_HackMIT-2021/"> user safety app </a> with a team of 5.'
+  - 'Won the <strong>Vishesh Code Expo</strong> 2021 by building <a href="https://ckvyqugj7184663idk0i811d0su-8rbb2fvau-calatop.vercel.app/authenticate"> mrec meet </a> with a team of 5.'
+  - 'Achieved a <strong>Global rank of 17</strong> out of 25,247 participants in the competitive challenge <a href="https://www.codechef.com/rankings/START83D?itemsPerPage=100&order=asc&page=1&sortBy=rank">Starters.</a>'
+  - 'Successfully completed <strong>four virtual internships</strong> through <a href="https://drive.google.com/drive/u/3/folders/1dYmMfq3Io_w2tqD3225he2QlyZE1cw-f">Forage</a>. Additionally, completed over <a href="https://drive.google.com/drive/u/3/folders/1dYmMfq3Io_w2tqD3225he2QlyZE1cw-f"> 8+ advanced courses.</a>'
 
-# CERTIFICATIONS
+
 certifications:
-  - certificate: Certification Name 1
-    course: Course Name 1
-  - certificate: Certification Name 2
-    course: Course Name 2
-  - certificate: Certification Name 3
-    course: Course Name 3
+  - certificate: "Problem Solving Using Computational Thinking"
+    course: "University of Michigan"
+  - certificate: "Introduction to Machine Learning"
+    course: "Duke University"
+  - certificate: "Algorithms and Data Structures"
+    course: "FreeCodeCamp"
+  - certificate: "Azure Fundamentals"
+    course: "Microsoft"
 
 # POSITIONS OF RESPONSIBILITY
 leadership:
-  - position: 'Your Leadership Position and Description with HTML Markup'
-    duration: Start Date - End Date
+  - position: '<strong>Member</strong> of Microsoft AI for Earth, among the top 50 contributors providing solutions.'
+    duration: May’ 21 - Jun’23
+  - position: '<strong>President</strong> of CodeChef Chapter, led a team of fifteen members, organized events.'
+    duration: Nov’ 21 - Nov’ 23
+  - position: '<strong>President</strong> of Newton School, organized events and coordinated the provision of merchandise.'
+    duration: Jan’ 22 - Jul’ 23
+  - position: '<strong>Staff Developer</strong> at Indian Game Developer Conference 2019.'
+    duration: Oct’ 19 - Dec’ 19
+
 
 # INTERESTS AND HOBBIES
 interests:
-  - 'Your Interests and Hobbies with HTML Markup'
+  - '<strong>Former semi-professional esports player</strong> for AMD GameON from 2017 to 2019.'
+  - '<strong><a href = "https://youtube.com/@rohzzn">YouTube</a> content creator</strong> with over 600k views, where I make helpful tutorials for the community.'
+  - '<strong>Host for the podcast <a href="https://rohzzn.me/podcast.html"> Unheard Perspective</a></strong>, where we delve into topics related to tech.'
+  - '<strong>Versatile designer</strong> with a strong focus on UI/UX, graphic, logo, & branding. Check out my <a href="https://behance.net/rohzzn">Behance</a> & <a href="https://dribbble.com/rohzzn">Dribbble</a>.'
