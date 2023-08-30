@@ -87,6 +87,14 @@ strong {
   width: 100px;
 }
 
+.photo-logo {
+  position: absolute;
+  display: block;
+  top: 30px;
+  left: 30px;
+  width: 100px;
+}
+
 .section-title {
   font-size: 10.75pt;
   text-transform: uppercase;
@@ -127,6 +135,8 @@ strong {
 .right p {
   text-align: right;
 }
+
+#career .section-element,
 
 #skill-grid {
   width: 98%;
@@ -204,6 +214,7 @@ ul li::marker {
 }
 
 #awards ul,
+#certifications ul {
 #interests ul {
   text-indent: -17px;
   margin-left: 22px;

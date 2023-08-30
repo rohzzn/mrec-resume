@@ -23,7 +23,8 @@
   </head>
   <body class="A4">
     <section class="sheet padding-10mm">
-      <img src="images/mrec.png" class="iiitd-logo" />
+      <img src="images/face.png" class="photo-logo">
+      <img src="images/mrec.png" class="iiitd-logo">
       <div id="page1">
         <div id="header">
           <h1 id="name"></h1>
@@ -43,6 +44,10 @@
             <strong>Website:</strong>
             <a id="website" target="_blank"></a>
           </p>
+        </div>
+        <div id="career" class="section">
+          <h3 class="section-title">Career Objective</h3>
+          <p id="career-objective"></p>
         </div>
         <div id="education" class="section">
           <h3 class="section-title">Education</h3>
@@ -66,9 +71,14 @@
           <h3 class="section-title">Achievements</h3>
           <ul id="awards-list"></ul>
         </div>
+        
         <div id="por" class="section">
           <h3 class="section-title">Positions of Responsibility</h3>
           <div id="por-grid"></div>
+        </div>
+        <div id="certifications" class="section">
+          <h3 class="section-title">Certifications</h3>
+          <ul id="certifications-list"></ul>
         </div>
         <div id="interests" class="section">
           <h3 class="section-title">Extracurricular</h3>
@@ -116,6 +126,9 @@
       websiteNode.innerHTML = data.bio.website.name;
       websiteNode.href = data.bio.website.link;
 
+      const careerObjectiveNode = document.getElementById('career-objective');
+      careerObjectiveNode.innerHTML = `&nbsp;${data.bio.careerObjective}`;
+
       const educationNode = document.getElementById('education');
       let eduHTML = '';
       data.education.map((item) => {
@@ -125,13 +138,15 @@
                 <strong>
                   ${item.institution}</strong
                 >
+                
               </p>
               <p>${item.degree}</p>
-              <p></p>
+              
             </div>
             <div class="right">
-       
-              <p>${item.note ? item.note : ''}</p>
+              
+              <strong><p>${item.note ? item.note : ''}</p></strong>
+              <p>${item.grade}</p>
             </div>
           </div>`;
       });
@@ -260,6 +275,23 @@
         awardHTML += `<li>${item}</li>`;
       });
       awardNode.innerHTML += awardHTML;
+
+      const certificationsSectionNode = document.getElementById('certifications');
+      let certificationsSectionHTML = '';
+      data.certifications.map((item) => {
+        certificationsSectionHTML += `<div class="section-element">
+          <div class="left">
+            <p><strong>${item.certificate}&nbsp;</strong></p>
+          </div>
+          <div class="right">
+            <p><em>From: ${item.course}</em></p>
+          </div>
+        </div>`;
+      });
+
+      certificationsSectionNode.innerHTML += certificationsSectionHTML;
+
+
 
       const interestsNode = document.getElementById('interests-list');
       let interestsHTML = '';

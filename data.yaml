@@ -3,6 +3,7 @@ bio:
   name: Pothuru Rohan Sanjeev
   roll_number: 20J41A6934
   email: work@rohzzn.me
+  careerObjective: "Your career objective goes here"
   github:
     username: rohzzn
     link: https://github.com/rohzzn
@@ -22,17 +23,17 @@ education:
   - institution: Malla Reddy Engineering College, Hyderabad
     degree: Bachelor of Technology in Computer Science
     duration: 2020 - Present
-    grade: 'CGPA: 7.2*'
+    grade: 'CGPA: 7.5*'
     note: 2020 - Present
   - institution: Trividya Junior College, Hyderabad
     degree: Telangana State Board of Intermediate Education
     duration: Graduated 2019
-    grade: 'Percentage: 73%'
+    grade: 'Percentage: 76%'
     note: Graduated 2019
   - institution: Slate the School, Hyderabad
     degree: Telangana SSC Board
     duration: Graduated 2017
-    grade: 'Percentage: 72%'
+    grade: 'Percentage: 77%'
     note: Graduated 2017
 
 # SKILLS
@@ -86,18 +87,6 @@ work_experience:
 
 # PROJECTS
 projects:
-  - title: Todo
-    note: (Test Flight Stage)
-    subtitle: IOS Application 
-    duration: Mar’ 23
-    team_size: 1
-    links:
-      - name: GitHub
-        link: https://github.com/rohzzn/todoapp
-    bullets:
-      - Designed and implemented an intuitive user interface that prioritizes usability and simplicity for IOS users.
-      - Utilized CoreData to store task data locally, ensuring data persistence and improving app performance.
-    tech_stack: Swift
   - title: Pages
     note: (500+ Daily Users)
     subtitle: Figma Plugin
@@ -164,6 +153,16 @@ achievements:
   - 'Won the <strong>Vishesh Code Expo</strong> 2021 by building <a href="https://ckvyqugj7184663idk0i811d0su-8rbb2fvau-calatop.vercel.app/authenticate"> mrec meet </a> with a team of 5.'
   - 'Achieved a <strong>Global rank of 17</strong> out of 25,247 participants in the competitive challenge <a href="https://www.codechef.com/rankings/START83D?itemsPerPage=100&order=asc&page=1&sortBy=rank">Starters.</a>'
   - 'Successfully completed <strong>four virtual internships</strong> through <a href="https://drive.google.com/drive/u/3/folders/1dYmMfq3Io_w2tqD3225he2QlyZE1cw-f">Forage</a>. Additionally, completed over <a href="https://drive.google.com/drive/u/3/folders/1dYmMfq3Io_w2tqD3225he2QlyZE1cw-f"> 8+ advanced courses.</a>'
+
+
+certifications:
+  - certificate: "Certification 1"
+    course: "Course Name 1"
+  - certificate: "Certification 2"
+    course: "Course Name 2"
+  - certificate: "Certification 3"
+    course: "Course Name 3"
+
 
 # POSITIONS OF RESPONSIBILITY
 leadership:
